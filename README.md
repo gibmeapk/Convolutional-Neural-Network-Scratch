@@ -29,9 +29,3 @@ the installation of the above packages:
 1) Click import dataset, follow on-screen instructions
 2) Click train, training will begin this takes a very long time
 3) Once trained, click predict and import the image you want prediction to be performed on
-
-Program is inspired by implementations found in:
-
-https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/backpropagation.html
-https://github.com/piyush2896/CNN-Using-Numpy
-https://cs231n.github.io/convolutional-networks/
