@@ -30,4 +30,4 @@ the installation of the above packages:
 2) Click train, training will begin this may take a very long time
 3) Once trained, click predict and import the image you want prediction to be performed on
 
-## This was designed to be used to diagnose Alzhimer's Disease by learning from MRI scans
+#### This was designed to be used to diagnose Alzhimer's Disease by learning from MRI scans
