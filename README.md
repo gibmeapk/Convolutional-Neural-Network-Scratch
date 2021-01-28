@@ -27,5 +27,7 @@ Main program is ran by executing main.py after
 the installation of the above packages:
 
 1) Click import dataset, follow on-screen instructions
-2) Click train, training will begin this takes a very long time
+2) Click train, training will begin this may take a very long time
 3) Once trained, click predict and import the image you want prediction to be performed on
+
+## This was designed to be used to diagnose Alzhimer's Disease by learning from MRI scans
