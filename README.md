@@ -1,4 +1,4 @@
-# ConvolutionalNeuralNetworkScratch
+# Convolutional Neural Network Scratch
 Convolutional Neural Network using Numpy
 
 -Python version: Python 3.7
