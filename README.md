@@ -7,12 +7,12 @@ This was designed to be used to diagnose Alzhimer's Disease by learning from MRI
 
 Packages:
 
--Numpy version 1.17.4
--PyQt5 version: 12.7.0
--TQDM version: 4.45.0
--Keras version 2.3.1
--SciPy version: 1.74.4
--Imbalanced-Learn version: 0.6.2
+- Numpy version 1.17.4
+- PyQt5 version: 12.7.0
+- TQDM version: 4.45.0
+- Keras version 2.3.1
+- SciPy version: 1.74.4
+- Imbalanced-Learn version: 0.6.2
 
 
 ```
