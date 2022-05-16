@@ -168,7 +168,7 @@ class MainConv:
             print()
             
         loss /= testNumber
-        print("Training accuracy:", d)
+        print("Training accuracy:", acc/testNumber)
         print("Loss: ", loss/testNumber)
         self.setTrained(True)
 
